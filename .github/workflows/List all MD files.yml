@@ -19,15 +19,8 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     # Runs a single command using the runners shell
-    - name: ls   
-      run: ls ..
-      
-    - name: ls 2 terug  
-      run: ls ../..
-      
-    - name: List Files Action
-      uses: mirko-felice/list-files-action@v3.0.1
-
+    - name: LS  
+      run: ls ${{ github.action_path }}
       
     - name: Geef lijst met MD files
       run: find * -type d -name node_modules -prune -o -name '*.md' -print > context.txt
