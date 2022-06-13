@@ -26,4 +26,4 @@ jobs:
     #   run: ls $GITHUB_WORKSPACE
       
     - name: Geef lijst met MD files
-      run: find $GITHUB_WORKSPACE/* -type d -name node_modules -prune -o -name '*.md' -print
+      run: cd $GITHUB_WORKSPACE && find * -type d -name node_modules -prune -o -name '*.md' -print
