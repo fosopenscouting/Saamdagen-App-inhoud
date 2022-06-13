@@ -26,4 +26,10 @@ jobs:
     #   run: ls $GITHUB_WORKSPACE
       
     - name: Geef lijst met MD files
-      run: cd $GITHUB_WORKSPACE && find * -type d -name node_modules -prune -o -name '*.md' -print > /var/www/content.txt
+      run: mkdir ./public && cd $GITHUB_WORKSPACE && find * -type d -name node_modules -prune -o -name '*.md' -print > ./public/content.txt
+      
+    - name: Publish to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3.6.1
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
