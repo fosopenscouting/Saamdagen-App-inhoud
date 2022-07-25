@@ -27,6 +27,9 @@ jobs:
       
     - name: Geef lijst met MD files
       run: mkdir ./public && cd $GITHUB_WORKSPACE && find * -type d -name node_modules -prune -o -name '*.md' -print > ./public/content.txt
+
+    - name: List folders
+      run: ls -a
     
     - name: Kopieer alle .md files naar public folder
       run: cd $GITHUB_WOKRSPACE && find * -name "*.md" -exec cp --parents "{}" "../public/"  \;
