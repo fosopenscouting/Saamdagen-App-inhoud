@@ -32,7 +32,7 @@ jobs:
       run: ls -a
     
     - name: Kopieer alle .md files naar public folder
-      run: cd $GITHUB_WOKRSPACE && find * -name "*.md" -exec cp --parents "{}" "../public/"  \;
+      run: find * -name "*.md" -exec cp --parents "{}" "./public/"  \;
       
     - name: Publish to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3.6.1
