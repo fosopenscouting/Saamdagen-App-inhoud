@@ -1,8 +1,4 @@
 Homepage/Tekstblok 1.md
-Programma/Vrijdag/Algemene openingsuren.md
-Programma/Vrijdag/Activiteiten/1 - Sjabloon activiteit.md
-Programma/Zondag/Algemene openingsuren.md
-Programma/Zondag/Activiteiten/1 - Sjabloon activiteit.md
-Programma/Zaterdag/Algemene openingsuren.md
-Programma/Zaterdag/Activiteiten/1 - Sjabloon activiteit.md
+Programma/Algemene openingsuren.md
+Programma/1 - Sjabloon activiteit.md
 README.md
