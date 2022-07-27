@@ -1,7 +1,6 @@
 ---
-Volgorde: 1
+titel: Dit is de titel
+volgorde: 1
 ---
-
-# Titel blok
 
 [Voeg hier meer info toe]
