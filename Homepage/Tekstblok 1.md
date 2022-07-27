@@ -1,9 +1,7 @@
-\---
-
+---
 Volgorde: 1
+---
 
-\---
-
-\#Titel blok
+#Titel blok
 
 [Voeg hier meer info toe]
