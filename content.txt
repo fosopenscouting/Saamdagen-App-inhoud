@@ -1,4 +1,5 @@
-Homepage/Tekstblok 1.md
+Homepage/social-media.md
+Homepage/scan-je-ticket.md
 Programma/Algemene openingsuren.md
 Programma/1 - Sjabloon activiteit.md
 README.md
