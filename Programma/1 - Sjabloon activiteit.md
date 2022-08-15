@@ -4,9 +4,9 @@ titel: Een activiteit
 
 dag: Vrijdag
 
-start: 0000-00-00T20:00:00.000Z
+start: 2022-09-23T20:00:00.000Z
 
-eind: 0000-00-00T23:00:00.000Z
+eind: 2022-09-23T23:00:00.000Z
 
 locatie: Podium
 
