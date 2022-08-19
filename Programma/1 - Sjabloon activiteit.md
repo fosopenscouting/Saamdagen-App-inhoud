@@ -4,9 +4,7 @@ titel: Een activiteit
 
 dag: Vrijdag
 
-start: 2022-09-23T20:00:00.000Z
-
-eind: 2022-09-23T23:00:00.000Z
+uren: 20u t.e.m. 23u
 
 locatie: Podium
 
