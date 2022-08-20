@@ -12,4 +12,4 @@ volgorde: 1
 
 ---
 
-[Voeg hier meer info toe over de activiteit]
+Dit is echt de zotste activiteit *ooit*. Het is zelf met een [Link](https://fos.be) 
