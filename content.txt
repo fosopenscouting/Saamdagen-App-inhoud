@@ -1,4 +1,3 @@
-HOW-TO-USE.md
 Homepage/social-media.md
 Homepage/scan-je-ticket.md
 Programma/Algemene openingsuren.md
