@@ -1,5 +1,5 @@
 ---
-titel: Volg je ons al op Facebook?
+titel: Volg je ons al?
 volgorde: 2
 ---
 
