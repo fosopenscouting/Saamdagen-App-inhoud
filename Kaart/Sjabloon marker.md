@@ -1,8 +1,12 @@
 ---
 
-id: Teamwork
+id: G1
 
 layer: big_game
+
+title: Teamwork
+
+description:
 
 latitude: 51.200168
 
