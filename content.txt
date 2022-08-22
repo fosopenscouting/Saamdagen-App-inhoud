@@ -5,6 +5,7 @@ Faq/bekers-jetons.md
 Homepage/social-media.md
 Homepage/scan-je-ticket.md
 Homepage/scoutsmap.md
+Kaart/Sjabloon marker.md
 Programma/Algemene openingsuren.md
 Programma/1 - Sjabloon activiteit.md
 README.md
