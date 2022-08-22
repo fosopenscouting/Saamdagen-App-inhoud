@@ -6,7 +6,7 @@ icoon: train
 
 ## Met de trein
 
-Tshoe tshoe
+Tshoe
 
 ## Met de auto
 
