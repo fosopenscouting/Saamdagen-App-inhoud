@@ -4,9 +4,9 @@ layer: normal
 
 title: WC
 
-latitude: 51.201594
+latitude: 51.201776
 
-longitude: 4.850654
+longitude: 4.848883
 
 icon:
 
