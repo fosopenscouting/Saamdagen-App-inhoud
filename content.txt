@@ -6,6 +6,9 @@ Homepage/social-media.md
 Homepage/scan-je-ticket.md
 Homepage/scoutsmap.md
 Kaart/Sjabloon marker.md
+Kaart/Groot Spel 1.md
+Kaart/Activiteiten 1.md
+Kaart/Normaal 1.md
 Programma/Algemene openingsuren.md
 Programma/1 - Sjabloon activiteit.md
 README.md
