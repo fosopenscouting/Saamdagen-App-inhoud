@@ -3,7 +3,7 @@ id: A1
 
 layer: activities
 
-title: Activiteit 1: touwtje springen
+title: 'Activiteit 1: touwtje springen'
 
 latitude: 51.200168
 
