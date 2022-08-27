@@ -1,3 +1,4 @@
+---
 id: WC’s
 
 layer: normal
@@ -9,5 +10,5 @@ latitude: 51.201776
 longitude: 4.848883
 
 icon:
-
+---
 Beetje uitleg
