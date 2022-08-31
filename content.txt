@@ -5,8 +5,15 @@ Faq/bekers-jetons.md
 Homepage/social-media.md
 Homepage/scan-je-ticket.md
 Homepage/scoutsmap.md
+Kaart/markt.md
+Kaart/camping-2.md
 Kaart/Groot Spel 1.md
+Kaart/sanitair-1.md
 Kaart/Activiteiten 1.md
+Kaart/camping-1.md
+Kaart/sanitair-2.md
+Kaart/eettent.md
+Kaart/rustige bar.md
 Kaart/kampvuur.md
 Kaart/fuiftent.md
 Kaart/infopunt.md
