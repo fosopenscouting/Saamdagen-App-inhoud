@@ -25,5 +25,10 @@ Kaart/fuiftent.md
 Kaart/infopunt.md
 Kaart/podium.md
 Programma/Algemene openingsuren.md
-Programma/1 - Sjabloon activiteit.md
+Programma/5-vr-kampvuur.md
+Programma/1-vr-incheck.md
+Programma/4-vr-silent-disco.md
+Programma/2-vr-snack.md
+Programma/3-vr-show.md
 README.md
+sjablonen/1 - Sjabloon activiteit.md
