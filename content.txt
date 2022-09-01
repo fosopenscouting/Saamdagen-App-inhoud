@@ -24,11 +24,26 @@ Kaart/kampvuur.md
 Kaart/fuiftent.md
 Kaart/infopunt.md
 Kaart/podium.md
-Programma/Algemene openingsuren.md
+Programma/9-za-verzamelen.md
+Programma/za-openingsuren.md
+Programma/1-za-opstaan.md
+Programma/vr-openingsuren.md
 Programma/5-vr-kampvuur.md
+Programma/6-za-verzamelen.md
+Programma/4-za-vorming.md
 Programma/1-vr-incheck.md
+Programma/7-za-spel.md
 Programma/4-vr-silent-disco.md
+Programma/14-za-snack.md
+Programma/8-za-avondmaal.md
 Programma/2-vr-snack.md
+Programma/12-za-kampvuur.md
+Programma/3-za-verzamelen.md
 Programma/3-vr-show.md
+Programma/5-za-lunch.md
+Programma/11-za-band.md
+Programma/2-za-ontbijt.md
+Programma/13-za-fuif.md
+Programma/10-za-intro-speech.md
 README.md
 sjablonen/1 - Sjabloon activiteit.md
