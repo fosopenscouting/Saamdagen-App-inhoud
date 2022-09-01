@@ -28,9 +28,15 @@ Programma/9-za-verzamelen.md
 Programma/za-openingsuren.md
 Programma/1-za-opstaan.md
 Programma/vr-openingsuren.md
+Programma/7-zo-snack.md
+Programma/4-zo-verzamelen.md
 Programma/5-vr-kampvuur.md
+Programma/3-zo-markt.md
 Programma/6-za-verzamelen.md
+Programma/1-zo-opstaan.md
+Programma/2-zo-brunch.md
 Programma/4-za-vorming.md
+Programma/6-zo-tenten-opruimen.md
 Programma/1-vr-incheck.md
 Programma/7-za-spel.md
 Programma/4-vr-silent-disco.md
@@ -39,11 +45,14 @@ Programma/8-za-avondmaal.md
 Programma/2-vr-snack.md
 Programma/12-za-kampvuur.md
 Programma/3-za-verzamelen.md
+Programma/8-zo-uitcheck.md
 Programma/3-vr-show.md
+Programma/zo-openingsuren copy.md
 Programma/5-za-lunch.md
 Programma/11-za-band.md
 Programma/2-za-ontbijt.md
 Programma/13-za-fuif.md
+Programma/5-zo-opkuis.md
 Programma/10-za-intro-speech.md
 README.md
 sjablonen/1 - Sjabloon activiteit.md

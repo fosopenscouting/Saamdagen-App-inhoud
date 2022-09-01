@@ -10,3 +10,5 @@ volgorde: 6
 
 locatie: Podium
 ---
+
+Haast u, haast u, wij staan te wachten!
