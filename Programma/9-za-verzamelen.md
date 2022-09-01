@@ -4,7 +4,7 @@ titel: Verzamelen
 
 dag: Zaterdag
 
-uren: 20:00
+uren: '20:00'
 
 volgorde: 9
 
