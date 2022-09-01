@@ -8,7 +8,7 @@ uren: 23u t.e.m. 03u
 
 volgorde: 5
 
-locatie: kampvuur
+locatie: Kampvuur
 
 ---
 
