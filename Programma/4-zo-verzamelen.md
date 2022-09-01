@@ -2,13 +2,13 @@
 
 titel: Verzamelen
 
-dag: Zaterdag
+dag: Zondag
 
-uren: 20:00
+uren: 12:00
 
-volgorde: 9
+volgorde: 4
 
-locatie: Podium
+locatie: Markt
 
 ---
 
