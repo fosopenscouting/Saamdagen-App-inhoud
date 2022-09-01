@@ -12,4 +12,6 @@ locatie: Fuiftent
 
 ---
 
-Een bende sfeermakers zorgt voor een show op het podium.
+Switch tussen verschillende dj's op zoek naar de beste dansplaatjes. Haal je dansbenen maar boven!
+
+We ontvangen elk half uur 150 dansers in de silent disco.
