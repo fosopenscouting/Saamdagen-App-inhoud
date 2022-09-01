@@ -8,7 +8,7 @@ uren: 22u t.e.m. 02u
 
 volgorde: 3
 
-locatie: podium
+locatie: Podium
 
 ---
 

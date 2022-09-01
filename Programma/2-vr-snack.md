@@ -8,7 +8,7 @@ uren: 22u t.e.m. 00u
 
 volgorde: 2
 
-locatie: eettent
+locatie: Eettent
 
 ---
 
