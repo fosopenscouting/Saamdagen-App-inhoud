@@ -17,11 +17,13 @@ Kaart/Groot Spel 1.md
 Kaart/sanitair-1.md
 Kaart/Activiteiten 1.md
 Kaart/camping-1.md
+Kaart/bar.md
 Kaart/sanitair-2.md
 Kaart/eettent.md
 Kaart/rustige bar.md
 Kaart/kampvuur.md
 Kaart/fuiftent.md
+Kaart/ehbo.md
 Kaart/stille-camping.md
 Kaart/infopunt.md
 Kaart/podium.md
