@@ -22,6 +22,7 @@ Kaart/eettent.md
 Kaart/rustige bar.md
 Kaart/kampvuur.md
 Kaart/fuiftent.md
+Kaart/stille-camping.md
 Kaart/infopunt.md
 Kaart/podium.md
 Programma/9-za-verzamelen.md
