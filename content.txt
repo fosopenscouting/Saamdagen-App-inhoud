@@ -23,6 +23,7 @@ Kaart/sanitair-2.md
 Kaart/eettent.md
 Kaart/rook-podium.md
 Kaart/rustige bar.md
+Kaart/water-camping.md
 Kaart/kampvuur.md
 Kaart/fuiftent.md
 Kaart/ehbo.md
