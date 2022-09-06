@@ -54,7 +54,6 @@ Kaart/vormingen/36.md
 Kaart/vormingen/27.md
 Kaart/camping-2.md
 Kaart/rook-camping.md
-Kaart/Groot Spel 1.md
 Kaart/sanitair-1.md
 Kaart/camping-1.md
 Kaart/bar.md
@@ -63,6 +62,18 @@ Kaart/eettent.md
 Kaart/rook-podium.md
 Kaart/rustige bar.md
 Kaart/water-camping.md
+Kaart/groot spel/11.md
+Kaart/groot spel/4.md
+Kaart/groot spel/6.md
+Kaart/groot spel/2.md
+Kaart/groot spel/1.md
+Kaart/groot spel/7.md
+Kaart/groot spel/5.md
+Kaart/groot spel/10.md
+Kaart/groot spel/9.md
+Kaart/groot spel/8.md
+Kaart/groot spel/12.md
+Kaart/groot spel/3.md
 Kaart/kampvuur.md
 Kaart/fuiftent.md
 Kaart/ehbo.md
