@@ -14,8 +14,16 @@ Homepage/scoutsmap.md
 Kaart/water-podium.md
 Kaart/piscine-podium.md
 Kaart/markt.md
+Kaart/vormingen/4.md
+Kaart/vormingen/6.md
 Kaart/vormingen/2.md
 Kaart/vormingen/1.md
+Kaart/vormingen/7.md
+Kaart/vormingen/5.md
+Kaart/vormingen/10.md
+Kaart/vormingen/9.md
+Kaart/vormingen/8.md
+Kaart/vormingen/3.md
 Kaart/camping-2.md
 Kaart/rook-camping.md
 Kaart/Groot Spel 1.md
