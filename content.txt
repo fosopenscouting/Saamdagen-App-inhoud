@@ -14,11 +14,12 @@ Homepage/scoutsmap.md
 Kaart/water-podium.md
 Kaart/piscine-podium.md
 Kaart/markt.md
+Kaart/vormingen/2.md
+Kaart/vormingen/1.md
 Kaart/camping-2.md
 Kaart/rook-camping.md
 Kaart/Groot Spel 1.md
 Kaart/sanitair-1.md
-Kaart/Activiteiten 1.md
 Kaart/camping-1.md
 Kaart/bar.md
 Kaart/sanitair-2.md
