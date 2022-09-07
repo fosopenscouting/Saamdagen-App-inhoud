@@ -1,6 +1,6 @@
 ---
 titel: Deze app
-volgorde: 3
+volgorde: 4
 palette: fosGreen
 ---
 
