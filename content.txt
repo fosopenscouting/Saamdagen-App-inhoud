@@ -8,9 +8,9 @@ Faq/camping.md
 Faq/organiseren.md
 Faq/opladen.md
 Faq/shop.md
-Homepage/social-media.md
 Homepage/scan-je-ticket.md
 Homepage/scoutsmap.md
+Homepage/deze-app.md
 Kaart/water-podium.md
 Kaart/piscine-podium.md
 Kaart/markt.md
