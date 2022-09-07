@@ -5,9 +5,9 @@ layer: normal
 
 title: Camping
 
-latitude: 51.20329385384325
+latitude: 51.20370851978535
 
-longitude: 4.8484039306640625
+longitude: 4.850170706073921
 
 icon: camping
 ---
