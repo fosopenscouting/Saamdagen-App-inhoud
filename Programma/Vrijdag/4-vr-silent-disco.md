@@ -4,7 +4,7 @@ titel: Silent Disco
 
 dag: Vrijdag
 
-uren: 22u t.e.m. 02u
+uren: 22:00 t.e.m. 02:00
 
 volgorde: 4
 

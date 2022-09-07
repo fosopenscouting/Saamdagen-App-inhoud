@@ -4,7 +4,7 @@ titel: Snack
 
 dag: Vrijdag
 
-uren: 22u t.e.m. 00u
+uren: 22:00 t.e.m. 00:00
 
 volgorde: 2
 

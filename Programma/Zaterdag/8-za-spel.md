@@ -6,7 +6,7 @@ dag: Zaterdag
 
 uren: 14:00 t.e.m. 18:00
 
-volgorde: 7
+volgorde: 8
 
 ---
 

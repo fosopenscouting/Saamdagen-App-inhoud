@@ -4,7 +4,7 @@ titel: Incheck
 
 dag: Vrijdag
 
-uren: 20u t.e.m. 00u
+uren: 20:00 t.e.m. 00:00
 
 volgorde: 1
 
