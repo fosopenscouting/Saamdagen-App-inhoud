@@ -8,6 +8,7 @@ Faq/camping.md
 Faq/organiseren.md
 Faq/opladen.md
 Faq/shop.md
+Homepage/welkom.md
 Homepage/scan-je-ticket.md
 Homepage/scoutsmap.md
 Homepage/deze-app.md
