@@ -2,11 +2,11 @@
 
 titel: Kampvuur
 
-dag: Vrijdag
+dag: Zaterdag
 
-uren: 23u t.e.m. 03u
+uren: 21:00 t.e.m. 04:00
 
-volgorde: 5
+volgorde: 13
 
 locatie: Kampvuur
 
