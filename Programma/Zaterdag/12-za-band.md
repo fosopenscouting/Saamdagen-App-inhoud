@@ -12,4 +12,4 @@ locatie: Podium
 
 ---
 
-[Pixiedust](https://vi.be/platform/pixiedust?tab=details) zet de Brink in vuur en vlam. Hun covers afgewisseld met eigen nummers zorgen voor een heerlijke sfeer.
+Pixiedust zet de Brink in vuur en vlam. Hun covers afgewisseld met eigen nummers zorgen voor een heerlijke sfeer.
