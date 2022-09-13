@@ -12,4 +12,4 @@ locatie: Eettent
 
 ---
 
-Aan de eettent is voor iedereen een hamburger voorzien.
+Aan de eettent is voor iedereen een burger voorzien.
