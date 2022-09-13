@@ -4,4 +4,4 @@ volgorde: 4
 palette: fosGreen
 ---
 
-Deze app word elk jaar door werkgroep ICT met veel liefde gemaakt.
+Deze app wordt met veel liefde gemaakt door werkgroep ICT.

@@ -12,4 +12,4 @@ locatie: Uitcheck
 
 ---
 
-Tot volgend jaar!
+Hier kan je je beker met bekerjeton inwisselen. Ook overige jetons krijgen je hier terugbetaald. Tot volgend jaar!
