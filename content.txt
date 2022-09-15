@@ -82,6 +82,7 @@ Kaart/stille-camping.md
 Kaart/rook-fuif.md
 Kaart/infopunt.md
 Kaart/podium.md
+Programma/zo-openingsuren.md
 Programma/za-openingsuren.md
 Programma/vr-openingsuren.md
 Programma/Zaterdag/1-za-opstaan.md
@@ -104,7 +105,6 @@ Programma/Vrijdag/1-vr-incheck.md
 Programma/Vrijdag/4-vr-silent-disco.md
 Programma/Vrijdag/2-vr-snack.md
 Programma/Vrijdag/3-vr-show.md
-Programma/zo-openingsuren copy.md
 Programma/Zondag/7-zo-snack.md
 Programma/Zondag/4-zo-verzamelen.md
 Programma/Zondag/3-zo-markt.md
