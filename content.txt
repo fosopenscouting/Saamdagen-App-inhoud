@@ -10,6 +10,7 @@ Faq/opladen.md
 Faq/shop.md
 Homepage/welkom.md
 Homepage/scan-je-ticket.md
+Homepage/extra.md
 Homepage/scoutsmap.md
 Homepage/deze-app.md
 Kaart/water-podium.md
