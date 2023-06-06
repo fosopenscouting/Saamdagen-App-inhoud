@@ -26,7 +26,7 @@ jobs:
     #   run: ls $GITHUB_WORKSPACE
       
     - name: Geef lijst met MD files
-      run: cd $GITHUB_WORKSPACE/Staging && find * -type d -name node_modules -prune -o -name '*.md' -print > ./content.txt
+      run: cd $GITHUB_WORKSPACE/Staging && find * -type d -name node_modules -prune -o -name '*.md' -print > ./contentTest.txt
 
     
 #    - name: Kopieer alle .md files naar public folder
