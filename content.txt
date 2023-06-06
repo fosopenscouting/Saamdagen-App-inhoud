@@ -8,7 +8,6 @@ Faq/uitcheck.md
 Faq/opladen.md
 Faq/organiseren.md
 Faq/vragen-of-problemen.md
-Helpende-hand/bar.md
 Homepage/deze-app.md
 Homepage/scoutsmap.md
 Homepage/scan-je-ticket.md
@@ -115,4 +114,5 @@ Programma/Zondag/4-zo-verzamelen.md
 Programma/Zondag/2-zo-brunch.md
 Programma/Zondag/1-zo-opstaan.md
 README.md
+helpendeHand/bar.md
 sjablonen/1 - Sjabloon activiteit.md
