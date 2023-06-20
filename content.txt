@@ -1,5 +1,4 @@
 Production/sjablonen/1 - Sjabloon activiteit.md
-Production/helpendeHand/bar.md
 Production/Faq/gratis-water.md
 Production/Faq/organiseren.md
 Production/Faq/vragen-of-problemen.md
@@ -8,9 +7,9 @@ Production/Homepage/deze-app.md
 Production/Homepage/welkom.md
 Production/Homepage/scoutsmap.md
 Production/Homepage/scan-je-ticket.md
+Production/Volunteer/bar.md
 README.md
 Staging/sjablonen/1 - Sjabloon activiteit.md
-Staging/helpendeHand/bar.md
 Staging/Faq/shop.md
 Staging/Faq/gratis-water.md
 Staging/Faq/camping.md
@@ -24,6 +23,7 @@ Staging/Faq/uitcheck.md
 Staging/Homepage/deze-app.md
 Staging/Homepage/welkom.md
 Staging/Homepage/scan-je-ticket.md
+Staging/Volunteer/bar.md
 Staging/Kaart/rook-podium.md
 Staging/Kaart/ehbo.md
 Staging/Kaart/infopunt.md
