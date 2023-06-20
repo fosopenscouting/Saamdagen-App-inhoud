@@ -126,4 +126,4 @@ Staging/Programma/Zondag/2-zo-brunch.md
 Staging/Programma/Zondag/3-zo-markt.md
 Staging/Programma/Zondag/5-zo-opkuis.md
 sjablonen/1 - Sjabloon activiteit.md
-Img/aap.png
+Staging/Img/aap.png
