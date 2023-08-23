@@ -1,6 +1,6 @@
 ---
 titel: Scan je ticket
-volgorde: 2
+volgorde: 1
 ---
 
-Wil je weten voor welke vorming je bent ingeschreven? Scan je ticket via deze app en vergeet het nooit meer.
+Via ‘Mijn Saamdagen’ kan je de QRcode op je ticket scannen. Die QRcode kan je gebruiken om in te checken. Bovendien kan je daarna in ‘Mijn Saamdagen’ bekijken welke vorming je koos. 

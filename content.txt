@@ -122,7 +122,8 @@ Staging/Programma/za-openingsuren.md
 Staging/Programma/vr-openingsuren.md
 Staging/sjablonen/1 - Sjabloon activiteit.md
 Staging/Volunteer/bar.md
+Staging/Homepage/Mee_organiseren.md
 Staging/Homepage/deze-app.md
 Staging/Homepage/scan-je-ticket.md
-Staging/Homepage/welkom.md
+Staging/Homepage/Saamregels.md
 sjablonen/1 - Sjabloon activiteit.md
