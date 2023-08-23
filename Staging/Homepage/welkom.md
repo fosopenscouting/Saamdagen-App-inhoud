@@ -1,6 +1,7 @@
 ---
-titel: Welkom op Saamdagen!
+titel: Saamregels
 volgorde: 1
 ---
 
-Een weekend vol spel, vormingen, ontmoetingen en plezier.
+1. Respect
+2. Nachtrust
