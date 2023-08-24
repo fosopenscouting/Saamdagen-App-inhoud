@@ -10,12 +10,12 @@ Production/Homepage/scoutsmap.md
 Production/Homepage/welkom.md
 README.md
 Staging/Faq/3-gratis-water.md
-Staging/Faq/shop.md
+Staging/Faq/7-uitcheck.md
 Staging/Faq/2-bekers-jetons.md
 Staging/Faq/4-camping.md
 Staging/Faq/1-vragen-of-problemen.md
 Staging/Faq/5-opladen.md
-Staging/Faq/uitcheck.md
+Staging/Faq/6-shop.md
 Staging/Faq/8-vervoer.md
 Staging/Kaart/bar.md
 Staging/Kaart/sanitair-2.md

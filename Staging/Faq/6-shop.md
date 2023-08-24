@@ -1,10 +1,10 @@
 ---
 titel: FOS-shop
-volgorde: 7
+volgorde: 6
 icoon: tshirt-crew
 ---
 
-De mobiele FOS-shop verandert soms eens van plaats. Naast de fuiftent of op de markt.
+De mobiele FOS-shop vind je in de buurt van het infopunt. 
 
 De FOS-shop is open:  
 
@@ -12,4 +12,4 @@ De FOS-shop is open:
 
 **Zaterdag**: 12:00 – 13:30 & 18:00 – 22:00
 
-**Zondag**:  10:00 – 12:00
+**Zondag**:  09:30 – 11:30
