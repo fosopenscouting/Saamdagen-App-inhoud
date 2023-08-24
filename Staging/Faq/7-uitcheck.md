@@ -1,6 +1,6 @@
 ---
-titel: Afbraak en uitchecken
-volgorde: 8
+titel: Afbraak en uitcheck
+volgorde: 7
 icoon: bullhorn
 ---
 
