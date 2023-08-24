@@ -12,4 +12,4 @@ locatie: Eettent
 
 ---
 
-We genieten samen van een hartig ontbijt.
+We genieten samen van een stevig ontbijt.

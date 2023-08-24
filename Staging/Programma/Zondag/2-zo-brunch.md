@@ -12,4 +12,4 @@ locatie: Eettent
 
 ---
 
-We genieten samen van een uitgebreide brunch.
+We genieten samen van een heerlijke brunch.

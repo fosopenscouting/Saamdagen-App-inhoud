@@ -6,9 +6,9 @@ dag: Zaterdag
 
 uren: 23:00 t.e.m. 02:00
 
-volgorde: 15
+volgorde: 16
 
-locatie: Fuiftent
+locatie: Rarara? 
 
 ---
 
