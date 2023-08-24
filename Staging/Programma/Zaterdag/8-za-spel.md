@@ -10,4 +10,5 @@ volgorde: 8
 
 ---
 
-Tijd voor wat actie!
+Tijd voor wat actie! Je vindt op het spelterrein vanalles om je uit te leven: 
+- Alle spelletjes hieronder oplijsten.

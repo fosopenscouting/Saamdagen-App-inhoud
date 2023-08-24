@@ -4,7 +4,7 @@ titel: Tenten opruimen
 
 dag: Zondag
 
-uren: 14:00 t.e.m. 14:30
+uren: 13:00 t.e.m. ...
 
 volgorde: 6
 

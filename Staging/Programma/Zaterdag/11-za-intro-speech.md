@@ -12,4 +12,4 @@ locatie: Podium
 
 ---
 
-We verzamelen aan het podium voor de bekroning van het groot spel, de aankondiging van het nieuwe jaarthema en een woordje van **JAN VAN FOS**.
+We verzamelen aan het podium voor de aankondiging van het nieuwe jaarthema en een woordje van **JAN VAN FOS**.

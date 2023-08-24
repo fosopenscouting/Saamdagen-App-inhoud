@@ -12,4 +12,4 @@ locatie: Podium
 
 ---
 
-Pixiedust zet de Brink in vuur en vlam. Hun covers afgewisseld met eigen nummers zorgen voor een heerlijke sfeer.
+CopyPaste zet Saamdagen in vuur en vlam. Hun covers zorgen voor een heerlijke sfeer.
