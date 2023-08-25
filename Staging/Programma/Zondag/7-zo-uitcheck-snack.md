@@ -11,7 +11,7 @@ volgorde: 7
 locatie: Uitcheck
 
 ---
-Hier kan je je beker met bekerbon inwisselen. Ook overige jetons krijg je hier terugbetaald.
+Tijdens de uitcheck kan je je beker met bekerbon inwisselen. Ook overige jetons krijg je hier terugbetaald.
 
 Bij vertrek krijgt iedereen een hotdog uit het vuistje.
 

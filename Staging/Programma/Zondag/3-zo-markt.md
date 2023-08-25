@@ -12,4 +12,4 @@ locatie: Markt
 
 ---
 
-Kom inspiratie opdoen voor het nieuwe jaarthema.  
+Kom inspiratie opdoen voor het nieuwe scoutsjaar.  
