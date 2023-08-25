@@ -8,7 +8,7 @@ uren: 21:00 t.e.m. 02:30
 
 volgorde: 13
 
-locatie: Kampvuur
+locatie: Rustige bar
 
 ---
 

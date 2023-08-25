@@ -102,7 +102,6 @@ Staging/Programma/Vrijdag/2-vr-incheck.md
 Staging/Programma/Vrijdag/1-vr-shuttelbus.md
 Staging/Programma/Vrijdag/5-vr-silent-disco.md
 Staging/Programma/zo-openingsuren.md
-Staging/Programma/Zaterdag/14-za-kampvuur.md
 Staging/Programma/Zaterdag/13-za-rustige-bar.md
 Staging/Programma/Zaterdag/3-za-verzamelen.md
 Staging/Programma/Zaterdag/8-za-spel.md
@@ -111,12 +110,13 @@ Staging/Programma/Zaterdag/5-za-lunch.md
 Staging/Programma/Zaterdag/7-za-speluitleg.md
 Staging/Programma/Zaterdag/2-za-ontbijt.md
 Staging/Programma/Zaterdag/1-za-opstaan.md
-Staging/Programma/Zaterdag/15-za-fuif.md
 Staging/Programma/Zaterdag/4-za-vorming.md
 Staging/Programma/Zaterdag/12-za-band.md
 Staging/Programma/Zaterdag/6-za-verzamelen.md
+Staging/Programma/Zaterdag/14-za-fuif.md
 Staging/Programma/Zaterdag/9-za-avondmaal.md
 Staging/Programma/Zaterdag/16-za-snack.md
+Staging/Programma/Zaterdag/15-za-kampvuur.md
 Staging/Programma/Zaterdag/11-za-intro-speech.md
 Staging/Programma/za-openingsuren.md
 Staging/Programma/vr-openingsuren.md
