@@ -23,3 +23,4 @@ Je kan wel materiaal afzetten aan het Saamdagenterrein, maar daarna moet je het 
 #### FIETS
 
 Wie met de fiets komt, kan die parkeren op het domein.
+test
