@@ -110,6 +110,7 @@ Production/Programma/Zaterdag/11-za-intro-speech.md
 Production/Programma/za-openingsuren.md
 Production/Programma/vr-openingsuren.md
 Production/sjablonen/1 - Sjabloon activiteit.md
+Production/Volunteer/bar.md
 Production/Homepage/Mee_organiseren.md
 Production/Homepage/deze-app.md
 Production/Homepage/scan-je-ticket.md
