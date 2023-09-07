@@ -10,4 +10,4 @@ volgorde: 9
 locatie: Eettent
 ---
 
-We smullen van een vegetarische Mexicaanse klassieker.
+We smullen samen van een aziatische klassieker. 

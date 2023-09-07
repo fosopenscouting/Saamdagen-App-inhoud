@@ -4,7 +4,7 @@ titel: Kampvuur
 
 dag: Zaterdag
 
-uren: 22:30 t.e.m. 04:00
+uren: 23:00 t.e.m. 04:00
 
 volgorde: 15
 
