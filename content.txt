@@ -1,3 +1,4 @@
+Production/Faq/9-Saamregels.md
 Production/Faq/3-gratis-water.md
 Production/Faq/7-uitcheck.md
 Production/Faq/2-bekers-jetons.md
@@ -114,7 +115,6 @@ Production/Volunteer/bar.md
 Production/Homepage/Mee_organiseren.md
 Production/Homepage/deze-app.md
 Production/Homepage/scan-je-ticket.md
-Production/Homepage/Saamregels.md
 README.md
 Staging/Faq/3-gratis-water.md
 Staging/Faq/7-uitcheck.md
