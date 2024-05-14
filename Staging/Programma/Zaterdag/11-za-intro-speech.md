@@ -1,6 +1,6 @@
 ---
 
-titel: Aftrap avondprogramma
+titel: Intro & Speech
 
 dag: Zaterdag
 
