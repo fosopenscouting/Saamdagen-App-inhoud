@@ -4,7 +4,7 @@ titel: Shuttlebus
 
 dag: Vrijdag
 
-uren: 20:00 t.e.m. 23:15
+uren: 19:00 t.e.m. 23:15
 
 volgorde: 1
 
