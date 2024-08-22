@@ -9,6 +9,7 @@ Staging/Programma/vr-openingsuren.md
 Staging/Programma/zo-openingsuren.md
 Staging/Programma/Zaterdag/13-za-rustige-bar.md
 Staging/Programma/Zaterdag/15-za-kampvuur.md
+Staging/Programma/Zaterdag/3-za-markt.md
 Staging/Programma/Zaterdag/6-za-verzamelen.md
 Staging/Programma/Zaterdag/12-za-band.md
 Staging/Programma/Zaterdag/4-za-vorming.md
@@ -23,17 +24,12 @@ Staging/Programma/Zaterdag/14-za-fuif.md
 Staging/Programma/Zaterdag/5-za-lunch.md
 Staging/Programma/Zaterdag/8-za-spel.md
 Staging/Programma/Zaterdag/10-za-verzamelen.md
-Staging/Programma/Vrijdag/5-vr-silent-disco.md
-Staging/Programma/Vrijdag/1-vr-shuttelbus.md
+Staging/Programma/Vrijdag/4-vr-scouteske avond.md
 Staging/Programma/Vrijdag/3-vr-snack.md
 Staging/Programma/Vrijdag/2-vr-incheck.md
-Staging/Programma/Vrijdag/4-vr-show.md
 Staging/Programma/Vrijdag/6-vr-kampvuur.md
-Staging/Programma/Zondag/8-zo-shuttlebus.md
-Staging/Programma/Zondag/3-zo-markt.md
 Staging/Programma/Zondag/5-zo-opkuis.md
 Staging/Programma/Zondag/7-zo-uitcheck-snack.md
-Staging/Programma/Zondag/4-zo-verzamelen.md
 Staging/Programma/Zondag/6-zo-tenten-opruimen.md
 Staging/Programma/Zondag/2-zo-brunch.md
 Staging/Programma/Zondag/1-zo-opstaan.md
