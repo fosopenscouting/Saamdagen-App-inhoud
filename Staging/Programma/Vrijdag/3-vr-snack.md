@@ -6,7 +6,7 @@ dag: Vrijdag
 
 uren: 22:00 t.e.m. 00:00
 
-volgorde: 3
+volgorde: 2
 
 locatie: Eettent
 

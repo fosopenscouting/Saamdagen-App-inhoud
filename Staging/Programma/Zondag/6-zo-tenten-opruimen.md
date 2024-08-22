@@ -4,9 +4,9 @@ titel: Tenten opruimen
 
 dag: Zondag
 
-uren: 13:00 t.e.m. ...
+uren: 12:00 t.e.m. ...
 
-volgorde: 6
+volgorde: 4
 
 locatie: Camping
 

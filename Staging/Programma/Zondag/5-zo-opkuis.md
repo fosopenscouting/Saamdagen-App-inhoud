@@ -4,9 +4,9 @@ titel: Opkuis
 
 dag: Zondag
 
-uren: 11:45 t.e.m. ...
+uren: 10:30 t.e.m. ...
 
-volgorde: 5
+volgorde: 3
 
 locatie: Overal
 

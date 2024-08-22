@@ -4,9 +4,9 @@ titel: Markt
 
 dag: Zondag
 
-uren: 09:30 t.e.m. 11:30
+uren: 16:00 t.e.m. 18:00
 
-volgorde: 3
+volgorde: 9
 
 locatie: Markt
 

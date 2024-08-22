@@ -4,7 +4,7 @@ titel: Spel
 
 dag: Zaterdag
 
-uren: 14:00 t.e.m. 18:00
+uren: 14:00 t.e.m. 16:30
 
 volgorde: 8
 
@@ -12,38 +12,35 @@ volgorde: 8
 
 Tijd voor wat actie! Je vindt op het spelterrein vanalles om je uit te leven.  
 
-Lucht
--	Springkasteel
--	Sumoworstelen
--	Bumperballs
--	Frisbee
--	Kin ball
--	Kantelmuur
-
-Vuur
--	Vuur Godin (Dikke Bertha)
--	Odin (schipper) mag ik overvaren
--	Ontsnappen uit het brandende huis (Handicap overgeraken)
--	Tussen vier vuren
--	Vlam uit de broek (dassenroof)
--	Circustechnieken
--	Vuurbal petanque (schoenen petanque)
--	Vuur en Vlam (ratten en raven)
--	Steel het vuur (vlaggenroof)
--	De vloer is lava
-
-Water
+Prehistorie 
+-	Brandende boom
+-	Tussen 4 vuren
+-	Bessen verzamelen en trek de mammoet 
+-	Pak de vossenstaart
 -	Baseball
--	Kubb
--	Volksspelen
--	De watergeest
--	Titanic
--	Torpedo
+-	Pelsenroof 
 
-Aarde
--	Planten groeien
--	Aarderijk bouwen
--	Spikeball
+Romeinen
+-	Eieren van de kip schieten
 -	Archery tag
--	Koning worden
+-	Frisbee
+-	Stoel gooien 
+-	Piramide bouwen
+-	Springtouwen
+
+Industriële revolutie
+-	Petanque
+-	Volksspelen
+-	Balansslang
+-	Woppa wippen 
+-	Kubb
+-	Pietjesbak
+
+Toekomst 
+-	Planeten gooien (Lacrosse)
+-	Komeetbal (volleybal)
+-	Slingerbal
+-	Bibberspel
+-	4 op een rij
+-   Toren van Hanoi
 

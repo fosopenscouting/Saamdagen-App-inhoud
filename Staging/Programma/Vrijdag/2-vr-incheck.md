@@ -4,9 +4,9 @@ titel: Incheck
 
 dag: Vrijdag
 
-uren: 20:00 t.e.m. 00:00
+uren: 20:00 t.e.m. 23:00
 
-volgorde: 2
+volgorde: 1
 
 locatie: Incheck
 
