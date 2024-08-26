@@ -1,3 +1,10 @@
+Production/Programma/za-openingsuren.md
+Production/Programma/vr-openingsuren.md
+Production/Programma/zo-openingsuren.md
+Production/Programma/Vrijdag/4-vr-scouteske avond.md
+Production/Programma/Vrijdag/3-vr-snack.md
+Production/Programma/Vrijdag/2-vr-incheck.md
+Production/Programma/Vrijdag/6-vr-kampvuur.md
 Production/Homepage/Mee_organiseren.md
 Production/Homepage/deze-app.md
 Production/Homepage/scan-je-ticket.md
