@@ -1,6 +1,6 @@
 ---
 
-titel: Rustige bar bingo
+titel: Rustige bar quiz
 
 dag: Zaterdag
 

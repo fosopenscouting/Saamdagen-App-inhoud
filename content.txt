@@ -5,6 +5,11 @@ Production/Programma/Vrijdag/4-vr-scouteske avond.md
 Production/Programma/Vrijdag/3-vr-snack.md
 Production/Programma/Vrijdag/2-vr-incheck.md
 Production/Programma/Vrijdag/6-vr-kampvuur.md
+Production/Programma/Zondag/5-zo-opkuis.md
+Production/Programma/Zondag/7-zo-uitcheck-snack.md
+Production/Programma/Zondag/6-zo-tenten-opruimen.md
+Production/Programma/Zondag/2-zo-brunch.md
+Production/Programma/Zondag/1-zo-opstaan.md
 Production/Homepage/Mee_organiseren.md
 Production/Homepage/deze-app.md
 Production/Homepage/scan-je-ticket.md

@@ -12,4 +12,4 @@ locatie: Rarara?
 
 ---
 
-Stil je nachtelijke honger met een pakje friet (te betalen met jetons).
+Stil je nachtelijke honger met een pakje friet en heerlijke snacks (te betalen met jetons).
