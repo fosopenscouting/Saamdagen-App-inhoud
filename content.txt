@@ -1,6 +1,23 @@
 Production/Programma/za-openingsuren.md
 Production/Programma/vr-openingsuren.md
 Production/Programma/zo-openingsuren.md
+Production/Programma/Zaterdag/13-za-rustige-bar.md
+Production/Programma/Zaterdag/15-za-kampvuur.md
+Production/Programma/Zaterdag/3-za-markt.md
+Production/Programma/Zaterdag/6-za-verzamelen.md
+Production/Programma/Zaterdag/12-za-band.md
+Production/Programma/Zaterdag/4-za-vorming.md
+Production/Programma/Zaterdag/16-za-snack.md
+Production/Programma/Zaterdag/7-za-speluitleg.md
+Production/Programma/Zaterdag/3-za-verzamelen.md
+Production/Programma/Zaterdag/9-za-avondmaal.md
+Production/Programma/Zaterdag/1-za-opstaan.md
+Production/Programma/Zaterdag/11-za-intro-speech.md
+Production/Programma/Zaterdag/2-za-ontbijt.md
+Production/Programma/Zaterdag/14-za-fuif.md
+Production/Programma/Zaterdag/5-za-lunch.md
+Production/Programma/Zaterdag/8-za-spel.md
+Production/Programma/Zaterdag/10-za-verzamelen.md
 Production/Programma/Vrijdag/4-vr-scouteske avond.md
 Production/Programma/Vrijdag/3-vr-snack.md
 Production/Programma/Vrijdag/2-vr-incheck.md
@@ -14,6 +31,15 @@ Production/Homepage/Mee_organiseren.md
 Production/Homepage/deze-app.md
 Production/Homepage/scan-je-ticket.md
 Production/Homepage/deze-app copy.md
+Production/Faq/8-vervoer.md
+Production/Faq/4-camping.md
+Production/Faq/6-shop.md
+Production/Faq/1-vragen-of-problemen.md
+Production/Faq/2-bekers-jetons.md
+Production/Faq/5-opladen.md
+Production/Faq/3-gratis-water.md
+Production/Faq/9-Saamregels.md
+Production/Faq/7-uitcheck.md
 Production/sjablonen/1 - Sjabloon activiteit.md
 README.md
 Staging/Programma/za-openingsuren.md
