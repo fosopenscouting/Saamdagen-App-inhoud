@@ -1,6 +1,6 @@
 ---
 
-titel: Rustige bar quiz
+titel: Rustige bar
 
 dag: Zaterdag
 
