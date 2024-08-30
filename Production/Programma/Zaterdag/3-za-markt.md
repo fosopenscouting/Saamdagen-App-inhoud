@@ -2,7 +2,7 @@
 
 titel: Markt
 
-dag: Zondag
+dag: Zaterdag
 
 uren: 16:00 t.e.m. 18:00
 
