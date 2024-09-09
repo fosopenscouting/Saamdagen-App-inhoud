@@ -12,4 +12,4 @@ locatie: Rustige bar
 
 ---
 
-Voor wie op het gemak een drankje wil nuttigen of babbeltje wil slaan in de jungle. Kom je kans wagen met de QUIZ!
+Voor wie op het gemak een drankje wil nuttigen in de jungle en wil genieten van de verschillende caféspelen. 
