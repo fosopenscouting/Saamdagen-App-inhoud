@@ -37,8 +37,16 @@ Production/Programma/Zondag/6-zo-tenten-opruimen.md
 Production/Programma/Zondag/2-zo-brunch.md
 Production/Programma/vr-openingsuren.md
 Production/Programma/Vrijdag/6-vr-kampvuur.md
-Production/Programma/Vrijdag/4-vr-scouteske avond.md
+Production/Programma/Vrijdag/4-vr-Fotobooth.md
+Production/Programma/Vrijdag/4-vr-spelamusement.md
+Production/Programma/Vrijdag/4-vr-Fossen in de bossen.md
+Production/Programma/Vrijdag/4-vr-Karaoke met Travo.md
+Production/Programma/Vrijdag/4-vr-welp.md
+Production/Programma/Vrijdag/4-vr-Creahoek.md
+Production/Programma/Vrijdag/4-vr-Minigolf in the dark.md
 Production/Programma/Vrijdag/2-vr-incheck.md
+Production/Programma/Vrijdag/4-vr-Scoutsquiz..md
+Production/Programma/Vrijdag/4-vr-Glitterbord.md
 Production/Programma/Vrijdag/3-vr-snack.md
 Production/sjablonen/1 - Sjabloon activiteit.md
 README.md

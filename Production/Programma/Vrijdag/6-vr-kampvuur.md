@@ -6,7 +6,7 @@ dag: Vrijdag
 
 uren: 21:00 t.e.m. 03:00
 
-volgorde: 6
+volgorde: 12
 
 locatie: Kampvuurkring
 
