@@ -12,4 +12,4 @@ locatie: Overal
 
 ---
 
-We steken met z’n alle de handen uit de mouwen en zorgen ervoor dat het terrein er weer netjes bijligt.
+We steken met z'n alle de handen uit de mouwen en zorgen ervoor dat het terrein er weer netjes bijligt. We ruimen gezamenlijk op tot het einde en werken niet meer met specifieke taken.
