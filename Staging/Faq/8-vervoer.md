@@ -15,7 +15,7 @@ In het geval jullie zelf voor busvervoer zorgen, geef je aan de chauffeur het ad
 
 #### AUTO
 
-Kom je met de auto? Je kan je materiaal afzetten aan het Saamdagenterrein, maar daarna moet je terug omkeren en ergens een parkeerplaats zoeken. Er worden enkel parkeerplaatsen gereseveerd voor medewerkers en externe organisaties. 
+Kom je met de auto? Je kan je materiaal afzetten aan het Saamdagenterrein, maar daarna moet je terug omkeren en ergens een parkeerplaats zoeken. Er worden enkel parkeerplaatsen gereserveerd voor medewerkers en externe organisaties. 
 
 #### FIETS
 
