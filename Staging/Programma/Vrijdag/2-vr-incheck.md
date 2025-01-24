@@ -4,7 +4,9 @@ titel: Incheck
 
 dag: Vrijdag
 
-uren: 20:00 t.e.m. 23:00
+tijd:
+    start: '20:00'
+    eind: '23:00'
 
 volgorde: 1
 

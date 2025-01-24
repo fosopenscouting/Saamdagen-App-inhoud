@@ -4,7 +4,9 @@ titel: Ontbijt
 
 dag: Zaterdag
 
-uren: 08:15 t.e.m. 09:15
+tijd:
+    start: '08:15'
+    eind: '09:15'
 
 volgorde: 2
 

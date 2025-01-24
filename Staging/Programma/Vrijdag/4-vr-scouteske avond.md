@@ -4,7 +4,9 @@ titel: Scouteske avond
 
 dag: Vrijdag
 
-uren: 21:00 t.e.m. 02:00
+tijd:
+    start: '21:00'
+    eind: '02:00'
 
 volgorde: 3
 

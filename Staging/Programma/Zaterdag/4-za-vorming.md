@@ -4,7 +4,9 @@ titel: Vorming
 
 dag: Zaterdag
 
-uren: 10:00 t.e.m. 12:00
+tijd:
+    start: '10:00'
+    eind: '12:00'
 
 volgorde: 4
 ---

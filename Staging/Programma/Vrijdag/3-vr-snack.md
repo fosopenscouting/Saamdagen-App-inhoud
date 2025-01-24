@@ -4,7 +4,9 @@ titel: Snack
 
 dag: Vrijdag
 
-uren: 22:00 t.e.m. 00:00
+tijd:
+    start: '22:00'
+    eind: '00:00'
 
 volgorde: 2
 
