@@ -4,7 +4,9 @@ titel: Spel
 
 dag: Zaterdag
 
-uren: 14:00 t.e.m. 16:30
+tijd:
+    start: '14:00'
+    eind: '16:30'
 
 volgorde: 8
 

@@ -4,7 +4,9 @@ titel: Brunch
 
 dag: Zondag
 
-uren: 09:00 t.e.m. 10:00
+tijd:
+    start: '09:00'
+    eind: '10:00'
 
 volgorde: 2
 

@@ -4,7 +4,9 @@ titel: Markt
 
 dag: Zondag
 
-uren: 16:00 t.e.m. 18:00
+tijd:
+    start: '16:00'
+    eind: '18:00'
 
 volgorde: 9
 

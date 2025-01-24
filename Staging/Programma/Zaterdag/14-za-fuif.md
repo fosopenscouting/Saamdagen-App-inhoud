@@ -4,7 +4,9 @@ titel: Fuif
 
 dag: Zaterdag
 
-uren: 22:30 t.e.m. 03:00
+tijd:
+    start: '22:30'
+    eind: '03:00'
 
 volgorde: 14
 

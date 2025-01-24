@@ -4,7 +4,9 @@ titel: Kampvuur
 
 dag: Vrijdag
 
-uren: 21:00 t.e.m. 03:00
+tijd:
+    start: '21:00'
+    eind: '03:00'
 
 volgorde: 6
 
