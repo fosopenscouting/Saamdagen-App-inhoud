@@ -4,7 +4,9 @@ titel: MINIVOETBALTOERNOOI
 
 dag: Zaterdag
 
-uren: 13:30 t.e.m. 16:30
+tijd:
+    start: '13:45'
+    eind: '14:00'
 
 volgorde: 7
 

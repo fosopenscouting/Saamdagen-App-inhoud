@@ -4,7 +4,9 @@ titel: Band
 
 dag: Zaterdag
 
-uren: 21:00 t.e.m. 22:30
+tijd:
+    start: '21:00'
+    eind: '22:30'
 
 volgorde: 13
 

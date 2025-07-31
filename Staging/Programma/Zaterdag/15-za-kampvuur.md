@@ -4,9 +4,11 @@ titel: Kampvuur
 
 dag: Zaterdag
 
-uren: 23:00 t.e.m. 04:00
+tijd:
+    start: '23:00'
+    eind: '04:00'
 
-volgorde: 16
+volgorde: 15
 
 locatie: Kampvuurkring
 

@@ -4,7 +4,9 @@ titel: Lunch
 
 dag: Zaterdag
 
-uren: 12:00 t.e.m. 13:15
+tijd:
+    start: '12:00'
+    eind: '13:30'
 
 volgorde: 5
 

@@ -4,7 +4,9 @@ titel: Rustige bar quiz
 
 dag: Zaterdag
 
-uren: 21:00 t.e.m. 02:30
+tijd:
+    start: '21:00'
+    eind: '02:30'
 
 volgorde: 14
 
