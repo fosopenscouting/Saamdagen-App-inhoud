@@ -1,6 +1,6 @@
 ---
 
-titel: Speluitleg
+titel: MINIVOETBALTOERNOOI
 
 dag: Zaterdag
 

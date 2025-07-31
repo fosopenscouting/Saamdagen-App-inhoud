@@ -12,4 +12,4 @@ volgorde: 10
 locatie: Eettent
 ---
 
-We smullen samen van een aziatische klassieker. 
+We smullen samen van uitgebreid pastabuffet.
