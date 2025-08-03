@@ -1,9 +1,9 @@
 ---
-titel: nr 1
-subtitel: subtitel
+titel: Typ hier je titel
+subtitel: Eentueel een subtitel
 time:
-    date: "01/05/2025"
-    hour: "13:00"
+    date: "dd/mm/yyyy"
+    hour: "hh:mm"
 ---
 
-1e notificatie
+Hier komt de inhoud van de notificatie
