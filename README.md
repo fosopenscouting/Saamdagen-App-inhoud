@@ -6,6 +6,11 @@
 -   Alle bestanden in Homepage en Programma worden opgehaald door de app. Plaats hierin geen sjablonen, testbestanden,..
 -   Zorg dat de info tussen `---` steeds goed ingevuld is. Kopieer een reeds bestaand item om zeker te zijn dat alles juist is.
 
+## Aanpassingen maken
+
+Hoe zorg je er nu voor dat de aanpassingen correct worden opgeslagen?
+[Lees hier de handleiding](./git.md)
+
 ## Overzicht mappen
 
 | Mapnaam      | Doel                                                                       |
