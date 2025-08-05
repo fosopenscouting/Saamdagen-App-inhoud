@@ -7,7 +7,6 @@ Production/Faq/7-uitcheck.md
 Production/Faq/2-bekers-jetons.md
 Production/Faq/1-vragen-of-problemen.md
 Production/Faq/4-camping.md
-Production/sjablonen/1 - Sjabloon activiteit.md
 Production/Homepage/deze-app copy.md
 Production/Homepage/scan-je-ticket.md
 Production/Homepage/deze-app.md
@@ -130,7 +129,6 @@ Staging/Kaart/groot spel/9.md
 Staging/Kaart/groot spel/12.md
 Staging/Kaart/groot spel/3.md
 Staging/Volunteer/bar.md
-Staging/sjablonen/1 - Sjabloon activiteit.md
 Staging/Homepage/scan-je-ticket.md
 Staging/Homepage/deze-app.md
 Staging/Homepage/Mee_organiseren.md
@@ -163,4 +161,8 @@ Staging/Programma/Vrijdag/2-vr-incheck.md
 Staging/Programma/Vrijdag/4-vr-scouteske avond.md
 Staging/Programma/Vrijdag/6-vr-kampvuur.md
 Staging/Programma/zo-openingsuren.md
+git.md
+sjablonen/1 - Sjabloon homepage.md
 sjablonen/1 - Sjabloon activiteit.md
+sjablonen/2 - Sjabloon faq en volunteer.md
+sjablonen/1 - Sjabloon notification.md

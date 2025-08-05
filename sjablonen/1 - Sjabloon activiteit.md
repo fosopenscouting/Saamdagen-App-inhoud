@@ -4,7 +4,9 @@ titel: Een activiteit
 
 dag: Vrijdag
 
-uren: 20u t.e.m. 23u
+tijd: 
+    start: '20:00'
+    eind: '23:00'
 
 locatie: Podium
 
