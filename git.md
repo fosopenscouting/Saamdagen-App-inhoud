@@ -30,6 +30,9 @@ Klik hierop om het menutje te openen. Hier krijg je dan een lijst met alle besta
 2. Sla de wijzigingen op.
 3. Voeg deze wijzigingen toe aan de lijst voor op te slaan.
 
+> Dit is niet hoe je het moet doen, maar de uitleg bij de foto hierboven.
+> De werkwijze vind je hieronder terug
+
 ### Werkwijze
 
 ---
