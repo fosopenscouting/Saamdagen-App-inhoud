@@ -32,17 +32,17 @@ Production/Programma/Zaterdag/14-za-fuif.md
 Production/Programma/Zaterdag/16-za-snack.md
 Production/Programma/zo-openingsuren.md
 Production/Programma/za-openingsuren.md
+Production/Programma/Vrijdag/4-vr-Twistladder.md
 Production/Programma/Vrijdag/3-vr-snack.md
-Production/Programma/Vrijdag/4-vr-Fotobooth.md
-Production/Programma/Vrijdag/4-vr-Scoutsquiz..md
-Production/Programma/Vrijdag/4-vr-Creahoek.md
-Production/Programma/Vrijdag/4-vr-Fossen in de bossen.md
-Production/Programma/Vrijdag/4-vr-spelamusement.md
+Production/Programma/Vrijdag/4-vr-Just dance.md
+Production/Programma/Vrijdag/4-vr-Sip-n-paint.md
+Production/Programma/Vrijdag/4-vr-Schminken.md
+Production/Programma/Vrijdag/4-vr-airhockey.md
+Production/Programma/Vrijdag/4-vr-Lasershooten.md
 Production/Programma/Vrijdag/4-vr-Minigolf in the dark.md
 Production/Programma/Vrijdag/6-vr-kampvuur.md
 Production/Programma/Vrijdag/2-vr-incheck.md
-Production/Programma/Vrijdag/4-vr-Glitterbord.md
-Production/Programma/Vrijdag/4-vr-Karaoke met Travo.md
+Production/Programma/Vrijdag/4-vr-Photobooth.md
 Production/Homepage/scan-je-ticket.md
 Production/Homepage/deze-app copy.md
 Production/Homepage/deze-app.md
