@@ -1,15 +1,15 @@
 ---
 
-titel: Scoutsquiz
+titel: Sip-n-paint
 
 dag: Vrijdag
 
-uren: 22:00 t.e.m. 01:00
+uren: 23:00 t.e.m. 01:00
 
-volgorde: 8
+volgorde: 9
 
 locatie: Rustige bar
 
 ---
 
-Weet jij alles van scouting? Tijd om het te bewijzen in de jungle.
+Ontspan met een drankje en schilder je eigen kunstwerk!

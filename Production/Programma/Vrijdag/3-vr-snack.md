@@ -12,4 +12,4 @@ locatie: Eettent
 
 ---
 
-Aan de eettent is voor iedereen een snack voorzien.
+Aan de eettent is voor iedereen Dürum voorzien als snack.

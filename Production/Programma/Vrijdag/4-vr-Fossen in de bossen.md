@@ -1,15 +1,15 @@
 ---
 
-titel: Fossen in de bossen
+titel: Lasershooten
 
 dag: Vrijdag
 
-uren: 22:00 t.e.m. 24:00
+uren: 23:00 t.e.m. 01:00
 
-volgorde: 5
+volgorde: 4
 
-locatie: 
+locatie: Bos
 
 ---
 
-Een leuk bosspel: basisplezier voor elke Fosser.
+Pew Pew! Tijd voor actie! 

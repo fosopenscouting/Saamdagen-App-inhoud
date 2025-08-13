@@ -1,15 +1,15 @@
 ---
 
-titel: Karaoke met Travo
+titel: Schminken 
 
 dag: Vrijdag
 
-uren: 22:00 t.e.m. 01:00
+uren: 23:00 t.e.m. 01:00
 
-volgorde: 3
+volgorde: 7
 
-locatie: Podium
+locatie: 
 
 ---
 
-Samen zingen met Travo op de mooiste liedjes.
+Travo kleurt je gezicht voor de perfecte foto!

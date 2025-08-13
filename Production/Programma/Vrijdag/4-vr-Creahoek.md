@@ -1,16 +1,15 @@
 ---
 
-titel: Creahoek
+titel: Minigolf in the dark
 
 dag: Vrijdag
 
 uren: 23:00 t.e.m. 01:00
 
-volgorde: 9
+volgorde: 3
 
-locatie: Fuiftent
+locatie: Naast fuitent
 
 ---
 
-Laat je creativiteit de vrije loop, en werk mee aan het kunstwerk.
-
+Daag jezelf uit! Sla een balletje in het donker.    

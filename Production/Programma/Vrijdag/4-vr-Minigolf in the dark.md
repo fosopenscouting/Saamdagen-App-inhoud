@@ -1,15 +1,15 @@
 ---
 
-titel: Minigolf in the dark
+titel: Just dance
 
 dag: Vrijdag
 
-uren: 22:00 t.e.m. 24:00
+uren: 23:00 t.e.m. 01:00
 
-volgorde: 4
+volgorde: 8
 
-locatie:
+locatie: Podium
 
 ---
 
-Daag jezelf uit! Sla een balletje in het donker.    
+Dans los op de leukste choreo's van just dance!
