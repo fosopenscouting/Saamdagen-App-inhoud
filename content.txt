@@ -39,10 +39,10 @@ Production/Programma/Vrijdag/4-vr-Lasershooten.md
 Production/Programma/Vrijdag/2-vr-snack.md
 Production/Programma/Vrijdag/5-vr-Twistladder.md
 Production/Programma/Vrijdag/11-vr-kampvuur.md
-Production/Programma/Vrijdag/5-vr-Just dance.md
 Production/Programma/Vrijdag/3-vr-Minigolf in the dark.md
 Production/Programma/Vrijdag/1-vr-incheck.md
 Production/Programma/Vrijdag/9-vr-Sip-n-paint.md
+Production/Programma/Vrijdag/8-vr-Just dance.md
 Production/Homepage/scan-je-ticket.md
 Production/Homepage/deze-app copy.md
 Production/Homepage/deze-app.md
