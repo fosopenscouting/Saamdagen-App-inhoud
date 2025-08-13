@@ -6,7 +6,7 @@ dag: Zaterdag
 
 uren: 16:00 t.e.m. 18:00
 
-volgorde: 9
+volgorde: 8
 
 locatie: Markt
 
