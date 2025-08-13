@@ -24,7 +24,6 @@ Production/Programma/Zaterdag/12-za-band.md
 Production/Programma/Zaterdag/3-za-markt.md
 Production/Programma/Zaterdag/1-za-opstaan.md
 Production/Programma/Zaterdag/10-za-verzamelen.md
-Production/Programma/Zaterdag/7-za-speluitleg.md
 Production/Programma/Zaterdag/3-za-verzamelen.md
 Production/Programma/Zaterdag/4-za-vorming.md
 Production/Programma/Zaterdag/11-za-intro-speech.md

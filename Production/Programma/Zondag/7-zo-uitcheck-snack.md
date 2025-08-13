@@ -4,7 +4,7 @@ titel: Uitcheck + snack
 
 dag: Zondag
 
-uren: 12:00 t.e.m. ...
+uren: 13:00 t.e.m. ...
 
 volgorde: 5
 
