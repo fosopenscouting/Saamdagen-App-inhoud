@@ -8,7 +8,7 @@ uren: 23:00 t.e.m. 01:00
 
 volgorde: 5
 
-locatie: 
+locatie: Bos
 
 ---
 
