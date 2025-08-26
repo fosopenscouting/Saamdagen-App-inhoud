@@ -4,12 +4,14 @@ titel: Twistladder
 
 dag: Vrijdag
 
-uren: 23:00 t.e.m. 01:00
+tijd:
+    start: '23:00'
+    eind: '01:00'
 
 volgorde: 5
 
-locatie: 
+locatie: Bos
 
 ---
 
-Raak jij als eerste de ladder op!? 
+Raak jij als eerste de ladder op!?
