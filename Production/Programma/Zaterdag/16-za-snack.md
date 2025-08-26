@@ -6,9 +6,9 @@ dag: Zaterdag
 
 uren: 23:00 t.e.m. 02:00
 
-volgorde: 16
+volgorde: 14
 
-locatie: Rarara? 
+locatie: Rustige bar
 
 ---
 
