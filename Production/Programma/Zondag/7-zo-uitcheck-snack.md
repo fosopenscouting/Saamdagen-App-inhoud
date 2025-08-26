@@ -15,4 +15,5 @@ Tijdens de uitcheck kan je je beker met bekerbon inwisselen. Ook overige jetons 
 
 Bij vertrek krijgt iedereen een snack uit het vuistje.
 
-Tot volgend jaar!
+Tot volgend jaar! 
+Save the date: 25/09 - 27/09

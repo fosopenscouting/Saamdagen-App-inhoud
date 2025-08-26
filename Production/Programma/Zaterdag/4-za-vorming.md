@@ -6,8 +6,10 @@ dag: Zaterdag
 
 uren: 10:00 t.e.m. 12:00
 
-volgorde: 4
----
+volgorde: 4 
+
+locatie: Overal
+
 
 We dompelen je onder in leerrijke vormingen en workshops
 
