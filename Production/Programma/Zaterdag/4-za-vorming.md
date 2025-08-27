@@ -10,6 +10,7 @@ volgorde: 4
 
 locatie: Overal
 
+---
 
 We dompelen je onder in leerrijke vormingen en workshops
 
