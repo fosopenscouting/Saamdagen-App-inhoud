@@ -1,5 +1,5 @@
 ---
-titel: Camping en stille camping
+titel: Camping
 volgorde: 4
 icoon: tent
 ---

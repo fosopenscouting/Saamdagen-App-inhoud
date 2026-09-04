@@ -4,7 +4,7 @@ titel: Intro & Speech
 
 dag: Zaterdag
 
-uren: 20:15 t.e.m. 21:00
+uren: 20:15 t.e.m. 20:45
 
 volgorde: 11
 
