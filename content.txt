@@ -33,17 +33,13 @@ Production/Programma/Zondag/2-zo-brunch.md
 Production/Programma/Zondag/6-zo-tenten-opruimen.md
 Production/Programma/Zondag/5-zo-opkuis.md
 Production/Programma/Zondag/1-zo-opstaan.md
-Production/Programma/Vrijdag/10-vr-airhockey.md
-Production/Programma/Vrijdag/11-vr-kampvuur.md
-Production/Programma/Vrijdag/4-vr-Lasershooten.md
-Production/Programma/Vrijdag/6-vr-Photobooth.md
+Production/Programma/Vrijdag/7-vr-kampvuur.md
+Production/Programma/Vrijdag/5-vr-Pink Pony Club.md
+Production/Programma/Vrijdag/3-vr-Far West Kermis.md
 Production/Programma/Vrijdag/1-vr-incheck.md
-Production/Programma/Vrijdag/8-vr-Just dance.md
-Production/Programma/Vrijdag/5-vr-Twistladder.md
+Production/Programma/Vrijdag/6-vr-Mini fuif.md
 Production/Programma/Vrijdag/2-vr-snack.md
-Production/Programma/Vrijdag/9-vr-Sip-n-paint.md
-Production/Programma/Vrijdag/3-vr-Minigolf in the dark.md
-Production/Programma/Vrijdag/7-vr-Schminken.md
+Production/Programma/Vrijdag/4-vr-Linedancing.md
 Production/Programma/za-openingsuren.md
 README.md
 Staging/Homepage/scan-je-ticket.md
