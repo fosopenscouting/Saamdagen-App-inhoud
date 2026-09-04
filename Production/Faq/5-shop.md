@@ -1,6 +1,6 @@
 ---
 titel: FOS-shop
-volgorde: 6
+volgorde: 5
 icoon: tshirt-crew
 ---
 
