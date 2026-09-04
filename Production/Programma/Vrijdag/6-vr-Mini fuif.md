@@ -6,7 +6,7 @@ dag: Vrijdag
 
 uren: 00:30 t.e.m. 02:00
 
-volgorde: 6
+volgorde: 7
 
 locatie: Fuiftent
 
