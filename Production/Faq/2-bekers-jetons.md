@@ -5,8 +5,8 @@ icoon: cup-water
 ---
 
 Op Saamdagen betaal je aan de bar met jetons. Je koopt jetons aan bij het infopunt.
-1. Ronde jetons = €2
-2. Vierkante jetons = €1,50  
+1. Ronde jetons = €2,50
+2. Vierkante jetons = €2   
 
 We werken met herbruikbare bekers. Voor €2 koop je bij het infopunt een beker met bon aan. Als je aan de bar een drankje koopt, geef je je beker af. Je krijgt een gevulde beker terug. Die beker gebruik je dan opnieuw als je een drankje haalt. 
 

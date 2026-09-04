@@ -1,6 +1,6 @@
 ---
 titel: Saamregels
-volgorde: 9
+volgorde: 8
 ---
 
 1.	Respect
