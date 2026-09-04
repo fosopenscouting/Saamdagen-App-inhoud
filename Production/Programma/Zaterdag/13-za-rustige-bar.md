@@ -12,4 +12,4 @@ locatie: Rustige bar
 
 ---
 
-Voor wie op het gemak een drankje wil nuttigen in de disco en wil genieten van het terras. 
+Voor wie op het gemak een drankje wil nuttigen in de far west en wil genieten van het terras. 

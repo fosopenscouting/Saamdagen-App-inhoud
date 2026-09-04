@@ -11,4 +11,4 @@ volgorde: 5
 locatie: Eettent
 ---
 
-Belegde broodjes!
+Smakelijk!

@@ -1,18 +1,16 @@
 ---
 
-titel: Spelnamiddag + minivoetbaltoernooi
+titel: Massaspel:de grote bankroof!
 
 dag: Zaterdag
 
-uren: 14:00 t.e.m. 16:30
+uren: 13:30 t.e.m. 16:00
 
 volgorde: 7
 
-locatie: Hoofdgrond
+locatie: Overal
 
 ---
 
-Tijd voor wat actie! Je vindt op het spelterrein vanalles om je uit te leven.  
-
-Neem je deel aan minivoetbaltoernooi? Zorg dat je op tijd klaarstaat aan het veld. 
-
+Help! De kluis van Saamdagen is gestolen door een bende bankrovers! De toekomst ligt in jullie handen.
+Verzamel aanwijzingen bij de inwoners van Poperinge, voer opdrachten uit en verdien sheriffmunten om dichter bij de gestolen geldkas te komen.

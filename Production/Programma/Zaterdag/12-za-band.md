@@ -12,4 +12,4 @@ locatie: Podium
 
 ---
 
-Shift-Lock zet Saamdagen in vuur en vlam. Hun covers zorgen voor een heerlijke sfeer.
+Go Ninja Go zet Saamdagen in vuur en vlam. Hun covers zorgen voor een heerlijke sfeer.

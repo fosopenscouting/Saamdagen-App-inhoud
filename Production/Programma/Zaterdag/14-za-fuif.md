@@ -12,4 +12,4 @@ locatie: Podium
 
 ---
 
-Op zaterdagavond houden we een fuif onder de sterrenhemel. Vergeet je dansschoenen niet!
+De lichten dimmen, de muziek gaat aan… tijd om helemaal los te gaan!🎶

@@ -1,10 +1,10 @@
 ---
 
-titel: Brunch
+titel: Coffee Rave
 
 dag: Zondag
 
-uren: 09:00 t.e.m. 10:00
+uren: 09:00 t.e.m. 10:30
 
 volgorde: 2
 
@@ -12,4 +12,4 @@ locatie: Eettent
 
 ---
 
-We genieten samen van een heerlijke brunch.
+Start je dag met koffie, beats en goeie vibes! 

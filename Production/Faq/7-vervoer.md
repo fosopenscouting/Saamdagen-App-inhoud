@@ -7,7 +7,7 @@ Zorg dat je op tijd bent aan de incheck, deze sluit om 23u.
 
 #### BUS
 
-We voorzien busvervoer heen/terug naar Saamdagen dit jaar. Kocht je een ticket aan? Je ontvangt alle informatie via mail. De bussen rijden vrijdagavond naar Saamdagen (tussen 19u00 & 20u00) en zondagnamiddag (tussen 13u00 & 14u00) terug naar de regio’s.
+We voorzien busvervoer heen/terug naar Saamdagen dit jaar. Kocht je een ticket aan? Je ontvangt alle informatie via mail.
 
 #### KISS & RIDE
 
