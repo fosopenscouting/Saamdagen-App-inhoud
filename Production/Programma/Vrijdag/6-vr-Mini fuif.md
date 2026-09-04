@@ -2,7 +2,7 @@
 
 titel: Mini fuif, Maxi pret
 
-dag: Zaterdag
+dag: Vrijdag
 
 uren: 00:30 t.e.m. 02:00
 
